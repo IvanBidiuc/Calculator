@@ -4,22 +4,26 @@ import './App.css';
 
 const operators = ['/', '+', '-', '*'];
 const btn = [
-  'clear',
-  '0',
+  '1',
+  '2',
+  '3',
   '/',
-  '*',
-  '7',
-  '8',
-  '9',
-  '-',
+
   '4',
   '5',
   '6',
   '+',
-  '1',
-  '2',
-  '3',
-  '='
+
+  '7',
+  '8',
+  '9',
+  '-',
+
+  'clear',
+  '0',
+  '=',
+  '*'
+  
 ];
 // eslint-disable-next-line
 export function Calculator() {

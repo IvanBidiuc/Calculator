@@ -3,12 +3,12 @@
   height: 558px;
   margin: 0 auto;
   margin-top: 150px;
-  border: 8px white solid;
+  border: 8px #2d3a47 solid;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-gap: 5px;
   border-radius: 10px;
-  background-color: white;
+  background-color: #2d3a47;
 }
 .output {
   height: 150px;
