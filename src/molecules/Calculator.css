@@ -12,8 +12,8 @@
 }
 .output {
   height: 150px;
-  background: rgb(59, 35, 35);
-  color: white;
+  background: black;
+  color: chartreuse;
   text-align: right;
   font-size: 80px;
   grid-column-start: 1;
