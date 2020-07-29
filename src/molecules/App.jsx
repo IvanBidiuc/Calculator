@@ -1,6 +1,6 @@
 import React, { useState, useCallback } from 'react';
 import { Button } from '../atoms/Button';
-import './Calculator.css';
+import './App.css';
 
 const operators = ['/', '+', '-', '*'];
 const btn = [
